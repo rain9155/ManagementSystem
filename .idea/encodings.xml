@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/example/rain9155/CompanyManagePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/example/rain9155/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/example/rain9155/bean/Accountant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/example/rain9155/bean/CEO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/example/rain9155/bean/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/example/rain9155/bean/Employee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/example/rain9155/bean/Manager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/example/rain9155/bean/Seller.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/example/rain9155/db/DbHelper.java" charset="GBK" />
+  </component>
+</project>
